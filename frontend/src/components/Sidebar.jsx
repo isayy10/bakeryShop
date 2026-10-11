@@ -29,11 +29,6 @@ function Sidebar({ onNavigate, currentPage }) {
       icon: Package
     },
     {
-      name: "Manage Customers",
-      page: "customers",
-      icon: Users
-    },
-    {
       name: "Manage Orders",
       page: "orders",
       icon: ShoppingCart
